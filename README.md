@@ -1,5 +1,7 @@
 # TWC-Developer-Card
-Created with CodeSandbox
+Created with CodeSandbox <br>
+url for project https://xnf5z3.csb.app/
+
 ## Welcome to my small project!
 <br>
 After going through a Web Dev Bootcamp, for full stack web development, I found a strong interest within React. I throughly enjoy React as it is a comfortable library, which allows me to build large and small scale projects alike with ease. Thus I enrolled in a React.JS advanced course. This is one of the first on-your-own coding challenges.
@@ -14,9 +16,10 @@ The point of this project was to create a developer card, with multiple componen
 
 ## What are props?
 <br> 
-The main idea, was working with props, or properties. Props are a set of data, in the form of an object which is passed into a component. If you look at the bottom of the card, which I will attach a picture below, you will see an in-line list of skills/languages. Instead of coding out each individual skill, I made a skill list with properties attached such as, skill language, skill background color, and skill emoji. I opted to not use the emoji because I did not like the way it looked. I then created another component, which passes through properties from the skillset list, for each individual skill, thus it slightly shortens, and cleans up the code. These properties were called by using props.lang, props.bgColor, and props.emoji. 
+The main idea, was working with props, or properties. Props are a set of data, in the form of an object which is passed into a component. If you look at the bottom of the card, which I will attach a picture below, you will see an in-line list of skills/languages. Instead of coding out each individual skill, I made a skill list with properties attached such as, skill language, skill background color, and skill level emoji. I then created another component, which passes through properties from the skillset list, for each individual skill, thus it slightly shortens, and cleans up the code. These properties were called by using props.lang, props.bgColor, and props.emoji. 
 
-![devCard](https://github.com/twwright119/TWC-Developer-Card/assets/115041793/bd019cb0-fe3b-44c5-af45-881f1230d6e5)
+![devCard](https://github.com/twwright119/TWC-Developer-Card/assets/115041793/996a46e9-61fc-4090-995b-582f9cf3f8bc)
+
 
 
 ## My takeaway
