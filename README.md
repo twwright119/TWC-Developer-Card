@@ -18,6 +18,9 @@ The point of this project was to create a developer card, with multiple componen
 <br> 
 The main idea, was working with props, or properties. Props are a set of data, in the form of an object which is passed into a component. If you look at the bottom of the card, which I will attach a picture below, you will see an in-line list of skills/languages. Instead of coding out each individual skill, I made a skill list with properties attached such as, skill language, skill background color, and skill level emoji. I then created another component, which passes through properties from the skillset list, for each individual skill, thus it slightly shortens, and cleans up the code. These properties were called by using props.lang, props.bgColor, and props.emoji. 
 
+## Image of Project
+<br>
+
 ![devCard](https://github.com/twwright119/TWC-Developer-Card/assets/115041793/996a46e9-61fc-4090-995b-582f9cf3f8bc)
 
 
