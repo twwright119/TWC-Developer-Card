@@ -1,6 +1,6 @@
 # TWC-Developer-Card
 Created with CodeSandbox <br>
-url for project https://xnf5z3.csb.app/
+[View Live Project ](https://xnf5z3.csb.app/)
 
 ## Welcome to my small project!
 <br>
@@ -21,7 +21,8 @@ The main idea, was working with props, or properties. Props are a set of data, i
 ## Image of Project
 <br>
 
-![devCard](https://github.com/twwright119/TWC-Developer-Card/assets/115041793/996a46e9-61fc-4090-995b-582f9cf3f8bc)
+![devCard](https://github.com/twwright119/TWC-Developer-Card/assets/115041793/874d4b2e-3b55-407f-85aa-b764c68abe8d)
+
 
 
 
